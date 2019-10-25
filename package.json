@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "concaveman": "^1.1.1",
+    "leaflet": "^1.5.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-leaflet": "^2.5.0",
+    "react-scripts": "3.2.0",
+    "shpjs": "^3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",

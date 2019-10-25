@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+
+.map {
+  height: 100vh;
+  position: relative;
+}
+
+.leaflet-map {
+  height: 80vh;
+  position: relative;
+}
